@@ -2,4 +2,4 @@
 
 ## Dependencies
 
-[dalekurt/storm-supervisor](https://registry.hub.docker.com/u/dalekurt/storm-supervisor/)
+[dalekurt/storm](https://registry.hub.docker.com/u/dalekurt/storm/)
